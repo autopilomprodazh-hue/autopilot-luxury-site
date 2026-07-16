@@ -3,5 +3,5 @@
 Исходники интерактивного T123-блока и оптимизированные WebP-изображения для чернового дубля главной страницы на Tilda.
 
 - `t123-fragment.html` — локальный проверочный макет.
-- `assets/hero-autopilot-luxury.webp` — обложка первого экрана.
-- `assets/comic-manual-vs-autopilot.webp` — авторский комикс «до/после».
+- `assets/hero-autopilot-3d-v2.jpg` — 3D-экосистема для первого экрана.
+- `assets/system-orbit-3d-v2.jpg` — круговая 3D-система четырёх этапов внедрения.
